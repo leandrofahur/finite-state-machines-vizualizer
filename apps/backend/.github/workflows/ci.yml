@@ -39,6 +39,7 @@ jobs:
       uses: codecov/codecov-action@v5
       with:
         token: ${{ secrets.CODECOV_TOKEN }}
+        slug: leandrofahur/finite-state-machine-vizualizer
 
   security:
     name: Security Check
