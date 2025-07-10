@@ -1,9 +1,5 @@
 # Finite State Machine Visualizer — Fullstack FSM Simulation Platform
 
-[![codecov](https://codecov.io/gh/leandrofahur/finite-state-machines-vizualizer/branch/main/graph/badge.svg?token=YR9K32XX5X)](https://codecov.io/gh/leandrofahur/finite-state-machines-vizualizer)
-[![Python Version](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/downloads/)
-[![Project Version](https://img.shields.io/badge/version-0.1.0-green.svg)](https://github.com/leandrofahur/finite-state-machines-vizualizer/releases)
-
 > A professional, fullstack monorepo application to model, simulate, and visualize finite state machines using FastAPI and Next.js. Designed for engineering, robotics, agent logic, education, and embedded systems control.
 
 ## Overview
