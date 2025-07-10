@@ -1,6 +1,6 @@
 # Finite State Machine Visualizer — Fullstack FSM Simulation Platform
 
-[![codecov](https://codecov.io/github/leandrofahur/https://github.com/leandrofahur/finite-state-machines-vizualizer/graph/badge.svg?token=YR9K32XX5X)](https://codecov.io/github/leandrofahur/https://github.com/leandrofahur/finite-state-machines-vizualizer)
+[![codecov](https://codecov.io/gh/leandrofahur/finite-state-machines-vizualizer/branch/main/graph/badge.svg?token=YR9K32XX5X)](https://codecov.io/gh/leandrofahur/finite-state-machines-vizualizer)
 [![Python Version](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/downloads/)
 [![Project Version](https://img.shields.io/badge/version-0.1.0-green.svg)](https://github.com/leandrofahur/finite-state-machines-vizualizer/releases)
 

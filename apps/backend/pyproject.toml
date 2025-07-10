@@ -54,7 +54,6 @@ python_functions = ["test_*"]
 addopts = [
     "--strict-markers",
     "--strict-config",
-    "--cov=src",
     "--cov=tests",
     "--cov-report=term-missing",
     "--cov-report=html",
